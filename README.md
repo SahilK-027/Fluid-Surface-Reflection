@@ -1,4 +1,4 @@
-# three-js-shaders-template
+# fluid-surface-reflection
 
 To run the development server
 ```bash
@@ -11,6 +11,4 @@ To run build production code
 npm run build
 ```
 
-Renders A Gradient Colour Plane Upon Starting
-
-<img width="1438" alt="Screenshot 2024-04-12 at 10 34 04 AM" src="https://github.com/SahilK-027/threejs-shaders-template/assets/104154041/a60c6545-f128-4556-a834-d2486d76b360">
+![YT Banner](https://github.com/user-attachments/assets/9fdff272-9619-4ed9-9a08-4879f15928cd)
